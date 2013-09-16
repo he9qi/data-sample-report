@@ -1,0 +1,163 @@
+/* line 1, ../sass/report.sass */
+h3 {
+  text-align: center;
+}
+
+/* line 4, ../sass/report.sass */
+h2 {
+  text-align: center;
+}
+
+/* line 7, ../sass/report.sass */
+h2.text-title-big {
+  font-size: 40px;
+  font-family: "Palatino";
+  color: #339966;
+}
+
+/* line 12, ../sass/report.sass */
+h3.keyword {
+  font-family: "Palatino";
+  font-weight: bold;
+  font-size: 36px;
+  color: #ba4d51;
+}
+
+/* line 18, ../sass/report.sass */
+hr {
+  margin: 5px 0 10px 0;
+}
+
+/* line 21, ../sass/report.sass */
+ul {
+  list-style-type: none;
+}
+
+/* line 24, ../sass/report.sass */
+.text-number {
+  font-family: "American Typewriter";
+  font-weight: bold;
+  color: #006699;
+}
+/* line 28, ../sass/report.sass */
+.text-number small {
+  font-family: "Arial";
+  font-weight: normal;
+  color: #bbbbbb;
+}
+
+/* line 33, ../sass/report.sass */
+.text-title {
+  font-size: 20px;
+  font-family: "American Typewriter";
+}
+
+/* line 38, ../sass/report.sass */
+div.account-reached .module-container {
+  text-align: center;
+}
+/* line 40, ../sass/report.sass */
+div.account-reached .module-container h1 {
+  font-size: 80px;
+  margin: 80px 0 25px 0;
+}
+
+/* line 44, ../sass/report.sass */
+p.impressions-count {
+  font-size: 30px;
+  font-weight: bold;
+}
+/* line 47, ../sass/report.sass */
+p.impressions-count small {
+  font-size: 12px;
+  font-weight: normal;
+}
+
+/* line 51, ../sass/report.sass */
+div.activity {
+  height: 290px;
+}
+/* line 53, ../sass/report.sass */
+div.activity #activity-pie {
+  margin-left: 20px;
+}
+
+/* line 57, ../sass/report.sass */
+div.user-info p.name {
+  margin: 0;
+}
+
+/* line 60, ../sass/report.sass */
+div.top-contributors {
+  height: 260px;
+}
+/* line 62, ../sass/report.sass */
+div.top-contributors div.module-container-row {
+  height: 65px;
+}
+/* line 65, ../sass/report.sass */
+div.top-contributors div.module-container-row div.status h4 {
+  margin-top: 0px;
+  margin-bottom: 4px;
+  font-family: "Georgia";
+  color: #666666;
+}
+/* line 70, ../sass/report.sass */
+div.top-contributors div.module-container-row div.status p.top-status {
+  font-size: 24px;
+}
+/* line 72, ../sass/report.sass */
+div.top-contributors div.module-container-row div.status p.top-status small {
+  font-size: 12px;
+}
+/* line 76, ../sass/report.sass */
+div.top-contributors div.module-container-row div.user div.user-info .follow {
+  font-family: "Futura";
+}
+/* line 78, ../sass/report.sass */
+div.top-contributors div.module-container-row div.user div.user-info .name {
+  color: #6699cc;
+}
+
+/* line 81, ../sass/report.sass */
+div.contributors {
+  height: 335px;
+}
+
+/* line 84, ../sass/report.sass */
+button.icon-tweeter {
+  background: url("../img/twitter16.png") no-repeat;
+  background-position: 0 4px;
+  padding-left: 20px;
+  width: 64px;
+  height: 24px;
+  line-height: 16px;
+}
+
+/* line 93, ../sass/report.sass */
+ul li.most-retweet-row {
+  height: 60px;
+  margin-bottom: 10px;
+}
+/* line 96, ../sass/report.sass */
+ul li.most-retweet-row div.span1 {
+  text-align: center;
+}
+/* line 98, ../sass/report.sass */
+ul li.most-retweet-row div.most-retweet-text {
+  font-size: 12px;
+}
+
+/* line 102, ../sass/report.sass */
+ul li.tweet-row {
+  height: 54px;
+  margin-bottom: 10px;
+}
+/* line 105, ../sass/report.sass */
+ul li.tweet-row div.user-icon {
+  margin-top: 5px;
+}
+/* line 107, ../sass/report.sass */
+ul li.tweet-row div.tweet-text {
+  font-size: 12px;
+}
